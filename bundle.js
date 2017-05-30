@@ -22308,7 +22308,7 @@
 	        "form",
 	        { onSubmit: this.onFormSubmit, className: "input-group" },
 	        _react2.default.createElement("input", {
-	          placeholder: "Get a five day forecast in your favourite cities",
+	          placeholder: "Get a five day forecast in a British city",
 	          className: "form-control",
 	          value: this.state.term,
 	          onChange: this.onInputChange
